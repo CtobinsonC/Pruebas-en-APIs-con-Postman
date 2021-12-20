@@ -1,0 +1,4 @@
+POST /api/api-token-auth/
+
+username: superadmin
+password: ThisIs@SecurePassw0rd
